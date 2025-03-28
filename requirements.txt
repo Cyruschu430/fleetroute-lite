@@ -1,6 +1,8 @@
-streamlit
-googlemaps
-python-dotenv
-folium
-polyline
-streamlit-folium
+streamlit>=1.30.0
+pandas>=2.1.0
+numpy>=1.24.0
+ortools>=9.8.0
+folium>=0.15.0
+geopandas>=0.14.0
+openrouteservice>=2.3.0  # if you plan to use this API for routing
+python-dotenv>=1.0.0     # if you use .env to store keys
