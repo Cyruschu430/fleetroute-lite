@@ -7,3 +7,4 @@ geopandas>=0.14.0
 openrouteservice>=2.3.0  # if you plan to use this API for routing
 python-dotenv>=1.0.0     # if you use .env to store keys
 googlemaps
+polyline
